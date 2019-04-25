@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\c++practice\leetc\3summ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\c++practice\leetc\4Sum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\c++practice\leetc\AddTwoNum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\c++practice\leetc\LetterCombination.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\c++practice\leetc\LongestPalindromic.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\c++practice\leetc\Merge_k_sorted_lists.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\c++practice\leetc\Reverse_nodes_in_Kgroup.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\c++practice\leetc\SwapNodes.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\c++practice\leetc\zigzag.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Binary_Tree_Preorder_Traversal.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RemoveDuplicates.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="nextPermutation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Generate_Parentheses.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GasStation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Candy.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LongestValidParenthese.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="JumpGameII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Multiply_String.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PermutationII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GetkthPermutation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="InsertInterval.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RotateList.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UniquePath.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Group_Anagram.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pow.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Mini_Path_Sum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Edit_Distance.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Min_Window_Substring.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Sort_Colors.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SubsetsIIcpp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GrayCode.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PartitionList.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Unique_BST.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Unique_BST_I.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="InterleavingString.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MaxRectangle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LargestRectangleHist.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MaxMultiply.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ScrambleString.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BSTinorder.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="WordSearch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RestoreIPAddress.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="WiggleSort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="KthLargestInArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MAXBoundSubArray.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RecoverBST.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BSTLeverOrdercpp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ConstructBSTbyPreIn.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PathSum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="NumDistinct.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BTMaxPathSum.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SumRootToLeafNums.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LongestConsecutiveSequence.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PopulateNextRightNode.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PalindromePartitionII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ParlindromePartition.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ReorderList.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Triangle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ABBA_TC.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Pascal.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="WordBreak.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SingleNumber.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EvalRPN.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MaxPointsInLine.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sortedArea.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Best_Stock_Profit.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Reverse_Bits.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="NumOfIslands.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="WordSearchII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="all.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
