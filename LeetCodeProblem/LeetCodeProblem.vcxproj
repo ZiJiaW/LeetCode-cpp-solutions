@@ -133,6 +133,7 @@
     <ClCompile Include="BSTLeverOrdercpp.cpp" />
     <ClCompile Include="BTMaxPathSum.cpp" />
     <ClCompile Include="Candy.cpp" />
+    <ClCompile Include="CombinationSum3.cpp" />
     <ClCompile Include="ConstructBSTbyPreIn.cpp" />
     <ClCompile Include="Edit_Distance.cpp" />
     <ClCompile Include="EvalRPN.cpp" />
@@ -148,6 +149,7 @@
     <ClCompile Include="LargestRectangleHist.cpp" />
     <ClCompile Include="LongestConsecutiveSequence.cpp" />
     <ClCompile Include="LongestValidParenthese.cpp" />
+    <ClCompile Include="Majority_ElementII.cpp" />
     <ClCompile Include="MAXBoundSubArray.cpp" />
     <ClCompile Include="MaxMultiply.cpp" />
     <ClCompile Include="MaxPointsInLine.cpp" />

@@ -145,19 +145,19 @@ private:
         board[i][j] = c;
     }
 };
-
-int main()
-{
-    auto r = Solution().findWords(vector<vector<char>>({
-        vector<char>({'o','a','a','n'}),
-        vector<char>({'e','t','a','e'}),
-        vector<char>({'i','h','k','r'}),
-        vector<char>({'i','f','l','v'}),
-        }), vector<string>({ "oath","pea","eat","rain", "aaaa" }));
-
-    for (auto s : r)
-    {
-        cout << s << ' ';
-    }
-    return 0;
-}
+//
+//int main()
+//{
+//    auto r = Solution().findWords(vector<vector<char>>({
+//        vector<char>({'o','a','a','n'}),
+//        vector<char>({'e','t','a','e'}),
+//        vector<char>({'i','h','k','r'}),
+//        vector<char>({'i','f','l','v'}),
+//        }), vector<string>({ "oath","pea","eat","rain", "aaaa" }));
+//
+//    for (auto s : r)
+//    {
+//        cout << s << ' ';
+//    }
+//    return 0;
+//}
