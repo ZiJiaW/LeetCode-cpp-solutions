@@ -49,9 +49,9 @@ public:
     }
 };
 
-int main()
-{
-    auto r = Solution().majorityElement(vector<int>({ 1 }));
-    copy(r.begin(), r.end(), ostream_iterator<int>(cout, " "));
-    return 0;
-}
+//int main()
+//{
+//    auto r = Solution().majorityElement(vector<int>({ 1 }));
+//    copy(r.begin(), r.end(), ostream_iterator<int>(cout, " "));
+//    return 0;
+//}

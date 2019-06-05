@@ -228,6 +228,12 @@
     <ClCompile Include="Majority_ElementII.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="DuplicateII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DuplicateIII.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="all.h">

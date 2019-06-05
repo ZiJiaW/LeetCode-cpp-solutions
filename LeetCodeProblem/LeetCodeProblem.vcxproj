@@ -135,6 +135,8 @@
     <ClCompile Include="Candy.cpp" />
     <ClCompile Include="CombinationSum3.cpp" />
     <ClCompile Include="ConstructBSTbyPreIn.cpp" />
+    <ClCompile Include="DuplicateII.cpp" />
+    <ClCompile Include="DuplicateIII.cpp" />
     <ClCompile Include="Edit_Distance.cpp" />
     <ClCompile Include="EvalRPN.cpp" />
     <ClCompile Include="GasStation.cpp" />
