@@ -149,6 +149,7 @@
     <ClCompile Include="JumpGameII.cpp" />
     <ClCompile Include="KthLargestInArray.cpp" />
     <ClCompile Include="LargestRectangleHist.cpp" />
+    <ClCompile Include="LCA.cpp" />
     <ClCompile Include="LongestConsecutiveSequence.cpp" />
     <ClCompile Include="LongestValidParenthese.cpp" />
     <ClCompile Include="Majority_ElementII.cpp" />
