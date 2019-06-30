@@ -237,6 +237,9 @@
     <ClCompile Include="LCA.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="AddParentheses.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="all.h">

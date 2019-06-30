@@ -127,6 +127,7 @@
     <ClCompile Include="..\..\..\c++practice\leetc\SwapNodes.cpp" />
     <ClCompile Include="..\..\..\c++practice\leetc\zigzag.cpp" />
     <ClCompile Include="ABBA_TC.cpp" />
+    <ClCompile Include="AddParentheses.cpp" />
     <ClCompile Include="Best_Stock_Profit.cpp" />
     <ClCompile Include="Binary_Tree_Preorder_Traversal.cpp" />
     <ClCompile Include="BSTinorder.cpp" />
