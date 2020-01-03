@@ -88,6 +88,8 @@
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
+      <StackCommitSize>100000000</StackCommitSize>
+      <StackReserveSize>100000000</StackReserveSize>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
@@ -140,6 +142,7 @@
     <ClCompile Include="DuplicateIII.cpp" />
     <ClCompile Include="Edit_Distance.cpp" />
     <ClCompile Include="EvalRPN.cpp" />
+    <ClCompile Include="ExpressionAdd.cpp" />
     <ClCompile Include="GasStation.cpp" />
     <ClCompile Include="Generate_Parentheses.cpp" />
     <ClCompile Include="GetkthPermutation.cpp" />
@@ -172,6 +175,7 @@
     <ClCompile Include="PermutationII.cpp" />
     <ClCompile Include="PopulateNextRightNode.cpp" />
     <ClCompile Include="pow.cpp" />
+    <ClCompile Include="QueueReconstructionbyHeight.cpp" />
     <ClCompile Include="RecoverBST.cpp" />
     <ClCompile Include="RemoveDuplicates.cpp" />
     <ClCompile Include="ReorderList.cpp" />
@@ -180,11 +184,15 @@
     <ClCompile Include="RotateList.cpp" />
     <ClCompile Include="ScrambleString.cpp" />
     <ClCompile Include="SingleNumber.cpp" />
+    <ClCompile Include="SlidingWindowMax.cpp" />
+    <ClCompile Include="sort.cpp" />
     <ClCompile Include="sortedArea.cpp" />
     <ClCompile Include="Sort_Colors.cpp" />
+    <ClCompile Include="SplitArrayLargestSum.cpp" />
     <ClCompile Include="SubsetsIIcpp.cpp" />
     <ClCompile Include="SumRootToLeafNums.cpp" />
     <ClCompile Include="Triangle.cpp" />
+    <ClCompile Include="UglyNumberII.cpp" />
     <ClCompile Include="UniquePath.cpp" />
     <ClCompile Include="Unique_BST.cpp" />
     <ClCompile Include="Unique_BST_I.cpp" />
@@ -195,6 +203,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="all.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="cpp.hint" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

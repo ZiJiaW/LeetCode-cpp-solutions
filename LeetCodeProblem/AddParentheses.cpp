@@ -54,9 +54,9 @@ public:
     }
 };
 
-int main()
-{
-    auto res = Solution().diffWaysToCompute("2-1-10*13");
-    copy(res.begin(), res.end(), ostream_iterator<int>(cout, " "));
-    return 0;
-}
+//int main()
+//{
+//    auto res = Solution().diffWaysToCompute("2-1-10*13");
+//    copy(res.begin(), res.end(), ostream_iterator<int>(cout, " "));
+//    return 0;
+//}

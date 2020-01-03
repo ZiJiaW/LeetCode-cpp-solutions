@@ -10,6 +10,8 @@
 #include <queue>
 #include <ctime>
 #include <set>
+#include <numeric>
+#include <functional>
 struct ListNode {
     int val;
     ListNode *next;
